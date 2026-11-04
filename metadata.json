@@ -1,0 +1,8 @@
+{
+  "name": "طرز وخياطة دراوات",
+  "description": "منصة حصرية للمصمم والخياط لنشر القطع المخيطة، وتحديد الأسعار، واستقبال وتأكيد الطلبيات المخصصة، مع نظام محادثات مباشرة وخاصة بين الخياط وكل عميل على حدة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
